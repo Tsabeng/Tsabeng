@@ -1,8 +1,8 @@
 # Bonjour, je suis Delphan Tsabeng 👋
 
-🚀 **Développeur Web**
+🚀 **Développeur Web** 
 🔧 **Techs favorites** : Python, JavaScript, React, etc.  
-📫 **Contact** : [votre.email@example.com](mailto:votre.email@example.com)  
+📫 **Contact** : delphantsabeng13@gmail.com
 
 ---
 
