@@ -1,16 +1,19 @@
-## Hi there 👋
+# Bonjour, je suis Delphan Tsabeng 👋
 
-<!--
-**Tsabeng/Tsabeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Développeur Web**
+🔧 **Techs favorites** : Python, JavaScript, React, etc.  
+📫 **Contact** : [votre.email@example.com](mailto:votre.email@example.com)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Mes Compétences
+- **Langages** : ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+- **Outils** : ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- **Autres** : Docker, SQL...
+
+---
+
+## 🌱 Ce que j'apprends actuellement
+  **Django** 
+  **React Native**  
+   **Machine Learning**  
