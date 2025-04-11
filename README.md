@@ -14,6 +14,6 @@
 ---
 
 ## 🌱 Ce que j'apprends actuellement
-  **Django** 
-  **React Native**  
+   **Django** 
+   **React Native**  
    **Machine Learning**  
